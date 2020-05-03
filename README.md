@@ -1,6 +1,7 @@
-# Build-Jenkins-Pipeline-with-Nexus
+# Build a Jenkins CI pipeline for Spring Boot application
 
-Create a Jenkins Pipeline with Nexus Repository Manager
+Thie project demonstrates how to build a CI pipeline on Jenkins for Spring Boot application.
+I used Nexus repository manager in this project.
 
 ## Prerequisite
 
